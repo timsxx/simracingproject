@@ -1,0 +1,5 @@
+Porsche 911 GT3 R;Spa-Francorchamps;3.5;7.0;-3.4;-2.2;4.0;3.0;Regen-Setup, gute Stabilität in Eau Rouge
+Formula Renault 3.5;Monza;1.2;5.5;-2.8;-1.5;0.0;0.0;Low-Downforce für Topspeed, instabil beim Bremsen
+BMW M4 GT4;Nürburgring GP;2.8;6.0;-3.0;-2.0;3.0;4.0;Allround-Setup, gut für Rennen und Quali
+Nissan Silvia S15;Tsukuba Circuit;0.0;3.0;-4.5;-3.5;0.0;0.0;Drift-Setup, sehr übersteuernd, kurze Gänge
+Audi R8 LMS Evo II;Red Bull Ring;4.0;8.0;-3.8;-2.5;5.0;5.0;Schnee-Setup, viel Traktion, weich abgestimmt

@@ -1,0 +1,17 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Java
+*.class
+*.log
+
+# IDEs
+/.idea/
+/.vscode/
+/out/
+/bin/
+
+# System
+/AppData/
+/target/
